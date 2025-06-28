@@ -23,7 +23,7 @@ O projeto precisou utilizar algumas bibliotecas para o seu funcionamento
 
 ## Como executar
 
-certifique-se que o arquivo esteja baixado na sua maquina e rode os seguintes programas no terminal
+certifique-se que o arquivo esteja baixado na sua maquina e rode os seguintes comandos no terminal
 
 ```bash
 pip install Inquererpy
